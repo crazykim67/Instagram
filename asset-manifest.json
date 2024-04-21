@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/Instagram/static/css/main.320ea2fe.css",
-    "main.js": "/Instagram/static/js/main.12f31573.js",
+    "main.css": "/Instagram/static/css/main.67b2d3fd.css",
+    "main.js": "/Instagram/static/js/main.3aa45b27.js",
     "static/js/453.93f24176.chunk.js": "/Instagram/static/js/453.93f24176.chunk.js",
     "static/media/Billabong.otf": "/Instagram/static/media/Billabong.74291b2136c68dd6365b.otf",
     "static/media/screenshot4.png": "/Instagram/static/media/screenshot4.a015f55058ad24a00428.png",
     "static/media/screenshot1.png": "/Instagram/static/media/screenshot1.d688ff1f110b88f3c0c9.png",
     "static/media/screenshot3.png": "/Instagram/static/media/screenshot3.66d6eaaf896694188857.png",
     "static/media/home-phones.png": "/Instagram/static/media/home-phones.f4b69b981c389b538d0e.png",
+    "static/media/my.jpg": "/Instagram/static/media/my.b16c7cb559416a28d764.jpg",
     "static/media/screenshot2.png": "/Instagram/static/media/screenshot2.a8b4d779fa1026a205a2.png",
     "static/media/empty_profile.jpg": "/Instagram/static/media/empty_profile.7fe14f0accd9979e3303.jpg",
     "static/media/more.png": "/Instagram/static/media/more.976b5194516ca86106ce.png",
     "static/media/instaLogo.png": "/Instagram/static/media/instaLogo.4a85fa308a481f4ce479.png",
     "static/media/logo.svg": "/Instagram/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Instagram/index.html",
-    "main.320ea2fe.css.map": "/Instagram/static/css/main.320ea2fe.css.map",
-    "main.12f31573.js.map": "/Instagram/static/js/main.12f31573.js.map",
+    "main.67b2d3fd.css.map": "/Instagram/static/css/main.67b2d3fd.css.map",
+    "main.3aa45b27.js.map": "/Instagram/static/js/main.3aa45b27.js.map",
     "453.93f24176.chunk.js.map": "/Instagram/static/js/453.93f24176.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.320ea2fe.css",
-    "static/js/main.12f31573.js"
+    "static/css/main.67b2d3fd.css",
+    "static/js/main.3aa45b27.js"
   ]
 }
