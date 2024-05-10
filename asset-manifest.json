@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/Instagram/static/css/main.2fbf1dd2.css",
-    "main.js": "/Instagram/static/js/main.a31fa74a.js",
+    "main.css": "/Instagram/static/css/main.6217bf14.css",
+    "main.js": "/Instagram/static/js/main.ae236a49.js",
     "static/js/453.0a2bea3b.chunk.js": "/Instagram/static/js/453.0a2bea3b.chunk.js",
-    "static/media/video.mp4": "/Instagram/static/media/video.9453ac12f6b73bca391a.mp4",
     "static/media/Billabong.otf": "/Instagram/static/media/Billabong.74291b2136c68dd6365b.otf",
     "static/media/screenshot4.png": "/Instagram/static/media/screenshot4.a015f55058ad24a00428.png",
     "static/media/screenshot1.png": "/Instagram/static/media/screenshot1.d688ff1f110b88f3c0c9.png",
@@ -12,7 +11,6 @@
     "static/media/my.jpg": "/Instagram/static/media/my.b16c7cb559416a28d764.jpg",
     "static/media/screenshot2.png": "/Instagram/static/media/screenshot2.a8b4d779fa1026a205a2.png",
     "static/media/empty_profile.jpg": "/Instagram/static/media/empty_profile.7fe14f0accd9979e3303.jpg",
-    "static/media/volume.png": "/Instagram/static/media/volume.d863b0b2c5b6850243d5.png",
     "static/media/un_like.png": "/Instagram/static/media/un_like.c412cbaead4744166c20.png",
     "static/media/bubble.png": "/Instagram/static/media/bubble.47ddfa6a646ce156efda.png",
     "static/media/more.png": "/Instagram/static/media/more.976b5194516ca86106ce.png",
@@ -21,12 +19,12 @@
     "static/media/close.png": "/Instagram/static/media/close.92a424b8ceafbf5ba0a6.png",
     "static/media/logo.svg": "/Instagram/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Instagram/index.html",
-    "main.2fbf1dd2.css.map": "/Instagram/static/css/main.2fbf1dd2.css.map",
-    "main.a31fa74a.js.map": "/Instagram/static/js/main.a31fa74a.js.map",
+    "main.6217bf14.css.map": "/Instagram/static/css/main.6217bf14.css.map",
+    "main.ae236a49.js.map": "/Instagram/static/js/main.ae236a49.js.map",
     "453.0a2bea3b.chunk.js.map": "/Instagram/static/js/453.0a2bea3b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2fbf1dd2.css",
-    "static/js/main.a31fa74a.js"
+    "static/css/main.6217bf14.css",
+    "static/js/main.ae236a49.js"
   ]
 }
